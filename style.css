@@ -863,6 +863,7 @@ section:nth-child(odd) .animate.scroll,
     }
     lottie-player{
         display: block;
+        width:80%;
     }
     .home-sci a {
         width: 38px;
